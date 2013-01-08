@@ -3,4 +3,4 @@ jaahans, muutanpa tahan pari juttua 11:57:52
 ja viela heti peraan toisenkin jutun 11:58:38
 
 ja otetaan mukaan 'kokeillaanko-ilman-skandeja' -branchista viel� t�� loppurivi
-no kiva
+no kiva <- tän saa poistaa
