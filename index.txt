@@ -9,3 +9,4 @@ poistin sen rivin ja lisäsin tän
 
 nyt SEkin konflikti:
 lisään etänä
+lokaali loppurivi
