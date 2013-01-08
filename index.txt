@@ -2,11 +2,11 @@
 jaahans, muutanpa tahan pari juttua 11:57:52
 ja viela heti peraan toisenkin jutun 11:58:38
 
-vedin tähän väliin toisenkin uuden
+vedin tähän väliin toisenkinko uuden
 
 ja otetaan mukaan 'kokeillaanko-ilman-skandeja' -branchista viel� t�� loppurivi
 poistin sen rivin ja lisäsin tän
 
-nyt SEkin konflikti:
+nyt SEkinko konflikti:
 lisään etänä
 lokaali loppurivi
