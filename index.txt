@@ -4,3 +4,5 @@ ja viela heti peraan toisenkin jutun 11:58:38
 
 ja otetaan mukaan 'kokeillaanko-ilman-skandeja' -branchista viel� t�� loppurivi
 poistin sen rivin ja lisäsin tän
+
+lisään etänä
