@@ -8,6 +8,7 @@ ja otetaan mukaan 'kokeillaanko-ilman-skandeja' -branchista viel� t�� lopp
 poistin sen rivin ja lisäsin tän
 
 nyt SEkinko konflikti:
+
 lisään etänä
 lokaali loppurivi
 toinen lokaali
