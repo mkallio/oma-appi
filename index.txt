@@ -11,3 +11,4 @@ nyt SEkinko konflikti:
 lisään etänä
 lokaali loppurivi
 toinen lokaali
+paikallisesti
