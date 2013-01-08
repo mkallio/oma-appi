@@ -2,10 +2,10 @@
 jaahans, muutanpa tahan pari juttua 11:57:52
 ja viela heti peraan toisenkin jutun 11:58:38
 
-vedin tähän väliin yhden uuden
+vedin tähän väliin toisen uuden
 
 ja otetaan mukaan 'kokeillaanko-ilman-skandeja' -branchista viel� t�� loppurivi
 poistin sen rivin ja lisäsin tän
 
-nyt se konflikti:
+nyt SE konflikti:
 lisään etänä
