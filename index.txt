@@ -1,4 +1,4 @@
-T�m� on index:in eka versio klo 11:53:09
+﻿T�m� on index:in eka versio klo 11:53:09
 jaahans, muutanpa tahan pari juttua 11:57:52
 ja viela heti peraan toisenkin jutun 11:58:38
 
@@ -6,3 +6,6 @@ vedin tähän väliin yhden uuden
 
 ja otetaan mukaan 'kokeillaanko-ilman-skandeja' -branchista viel� t�� loppurivi
 poistin sen rivin ja lisäsin tän
+
+nyt se konflikti:
+lisään paikallisesti
