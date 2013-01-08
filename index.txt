@@ -8,4 +8,4 @@ ja otetaan mukaan 'kokeillaanko-ilman-skandeja' -branchista viel� t�� lopp
 poistin sen rivin ja lisäsin tän
 
 nyt se konflikti:
-lisään paikallisesti
+lisään etänä
