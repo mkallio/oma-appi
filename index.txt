@@ -5,4 +5,4 @@ ja viela heti peraan toisenkin jutun 11:58:38
 vedin tähän väliin yhden uuden
 
 ja otetaan mukaan 'kokeillaanko-ilman-skandeja' -branchista viel� t�� loppurivi
-no kiva <- tän saa poistaa
+poistin sen rivin ja lisäsin tän
