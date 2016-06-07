@@ -1,1 +1,1 @@
-No t‰‰ on nyt se Readme.
+No t√§√§ on nyt se Readme.
